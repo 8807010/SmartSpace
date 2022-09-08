@@ -7,6 +7,7 @@
 // Обнуление и общие параметры
 @import "base/_null";
 @import "base/_rating";
+@import "base/_social";
 
 // подключения компонентов страницы
 @import "./components/_header";
@@ -17,3 +18,4 @@
 @import "./components/_featured";
 @import "./components/_reviews";
 @import "./components/_subscribe";
+@import "./components/_footer";
